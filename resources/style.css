@@ -1,0 +1,26 @@
+h1 {
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.cta {
+  font-family: Verdana;
+  color: Aquamarine;
+  font-size: 16px;
+}
+p {
+  text-align: center;
+}
+
+.imgpara {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+
+body {
+  background-color: black;
+}
